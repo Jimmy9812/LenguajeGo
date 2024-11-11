@@ -26,8 +26,8 @@ To run this project, you will need to have the following installed:
 
 ## Dependences
 
--No external dependencies are required for this project. Ensure you have Go installed. 
--You can download it from https://golang.org/dl/.
+* No external dependencies are required for this project. Ensure you have Go installed. 
+* You can download it from https://golang.org/dl/.
 
 
 
