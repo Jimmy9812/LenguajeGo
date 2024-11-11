@@ -24,6 +24,14 @@ To run this project, you will need to have the following installed:
 - **Dockerfile**: Contains the configuration to build the Docker image with Go.
 - **main.go**: The Go file that creates a web server and serves the message "Hello, Docker! with Jimmy Maila".
 
+## Dependences
+
+-No external dependencies are required for this project. Ensure you have Go installed. 
+-You can download it from https://golang.org/dl/.
+
+
+
+
 ## Steps to Run the Project
 
 ### 1. Clone the Repository
